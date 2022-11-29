@@ -13,12 +13,18 @@
 @import "./home/parceiros.css";
 @import './home/depoimento.css';
 
+/* Bicicleta */
+@import "./bicicleta/bicicleta.css";
+@import "./bicicleta/seguro.css";
+
 /* Bicicletas */
 @import "./bicicletas/bicicletas-lista.css";
 @import "./bicicletas/bicicletas.css";
 
 /* Seguros */
 @import "./seguros/seguros.css";
+@import "./seguros/vantagens.css";
+@import "./seguros/perguntas.css";
 
 /* Termos */
 @import './termos/termos.css';
